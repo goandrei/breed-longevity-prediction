@@ -10,7 +10,7 @@ Pandas, Numpy, Sklearn, Matplotlib
 
 ## Task 1 - predicting dog's breed
 
-It is a comparison between Logistic regression, KNN and Random Forests(using algorithms form sklearn).
+It is a comparison between Logistic regression, KNN and Random Forests(using sklearn algorithms).
 
 ## Task 2 - predicting dog's longevity
 
